@@ -1,16 +1,35 @@
-## Hi there 👋
+# Qiheng Li
 
-<!--
-**lqh770205-dev/lqh770205-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical computer engineering student at NYU.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Computer Vision with Deep Learning
+ConvNeXt ablation study + object detection (FCOS vs RetinaNet)
+
+Tech: PyTorch, CNN, Object Detection
+
+Repo:
+https://github.com/lqh770205-dev/computer-vision-with-dl
+
+---
+
+### Blood Cell Image Classification
+
+Image classification on BloodMNIST dataset.
+
+Tech: PyTorch, Neural Networks
+
+Repo:
+https://github.com/lqh770205-dev/blood-cell-classification
+
+---
+
+### House Price Prediction
+
+Machine learning regression on Ames Housing dataset.
+
+Tech: Scikit-learn, Feature Engineering
+
+Repo:
+https://github.com/lqh770205-dev/house-price-prediction
