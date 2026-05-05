@@ -1,35 +1,43 @@
 # Qiheng Li
 
-Electrical computer engineering student at NYU.
+ML Engineer | Multimodal AI, Anomaly Detection, Computer Vision  
 
-## Featured Projects
-
-### Computer Vision with Deep Learning
-ConvNeXt ablation study + object detection (FCOS vs RetinaNet)
-
-Tech: PyTorch, CNN, Object Detection
-
-Repo:
-https://github.com/lqh770205-dev/computer-vision-with-dl
+Graduate student at NYU Tandon (ECE), focused on building end-to-end machine learning systems with strong emphasis on reproducibility, evaluation, and real-world performance.
 
 ---
 
-### Blood Cell Image Classification
+## 🚀 Featured Projects
 
-Image classification on BloodMNIST dataset.
+### 🔹 Multimodal VQA with LoRA (Kaggle Pipeline)
+Built an end-to-end multimodal QA system (image + question + options → answer) using a frozen SmolVLM backbone with parameter-efficient fine-tuning (LoRA/DoRA).  
+Designed a reproducible training/inference pipeline with checkpointing and deterministic scoring; achieved ~0.83 public leaderboard score.  
 
-Tech: PyTorch, Neural Networks
-
-Repo:
-https://github.com/lqh770205-dev/blood-cell-classification
+**Tech:** PyTorch, Transformers, LoRA/DoRA, Multimodal Learning  
+🔗 https://github.com/lqh770205-dev/text_to_svg
 
 ---
 
-### House Price Prediction
+### 🔹 High-Frequency Trading Anomaly Detection
+Developed a Transformer-based sequence modeling pipeline on limit order book data to detect abnormal trading behavior.  
+Combined latent representations with One-Class SVM (Nyström approximation); achieved ~0.947 leaderboard score, demonstrating strong temporal modeling capability.  
 
-Machine learning regression on Ames Housing dataset.
+**Tech:** PyTorch, Scikit-learn, Time Series, Transformer  
+🔗 https://github.com/lqh770205-dev/Anomaly-Detection-in-Limit-Order-Book-Data-Transformer-One-Class-SVM
 
-Tech: Scikit-learn, Feature Engineering
+---
 
-Repo:
-https://github.com/lqh770205-dev/house-price-prediction
+### 🔹 ConvNeXt Ablation & Object Detection (FCOS vs RetinaNet)
+Implemented end-to-end object detection pipelines and conducted targeted ablations on ConvNeXt to analyze architectural impact.  
+Compared anchor-free vs anchor-based detection, highlighting trade-offs in precision and generalization.  
+
+**Tech:** PyTorch, Torchvision, CNN, Object Detection  
+🔗 https://github.com/lqh770205-dev/convnext-ablation-object-detection
+
+---
+
+### 🔹 Text-to-SVG Retrieval System (Optional)
+Built a retrieval-based system mapping text prompts to SVG graphics using TF-IDF similarity and reranking strategies.  
+Focused on efficient inference under structural constraints (SVG validity, length limits).  
+
+**Tech:** Python, NLP, Information Retrieval  
+🔗 https://github.com/lqh770205-dev/text_to_svg
