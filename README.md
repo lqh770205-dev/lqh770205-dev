@@ -8,12 +8,12 @@ Graduate student at NYU Tandon (ECE), focused on building end-to-end machine lea
 
 ## 🚀 Featured Projects
 
-### 🔹 Multimodal VQA with LoRA (Kaggle Pipeline)
-Built an end-to-end multimodal QA system (image + question + options → answer) using a frozen SmolVLM backbone with parameter-efficient fine-tuning (LoRA/DoRA).  
-Designed a reproducible training/inference pipeline with checkpointing and deterministic scoring; achieved ~0.83 public leaderboard score.  
+### 🔹 Pixels-to-Predictions (Multimodal VQA with LoRA)
+Built an end-to-end multimodal multiple-choice QA system (image + question + options → answer) based on the Pixels-to-Predictions Kaggle challenge.  
+Applied parameter-efficient fine-tuning (LoRA/DoRA) on a frozen SmolVLM backbone and designed a reproducible training/inference pipeline; achieved ~0.83 public leaderboard score.  
 
 **Tech:** PyTorch, Transformers, LoRA/DoRA, Multimodal Learning  
-🔗 https://github.com/lqh770205-dev/text_to_svg
+🔗 https://github.com/lqh770205-dev/Pixels-to-Predictions-DL-Vision-Challenge
 
 ---
 
