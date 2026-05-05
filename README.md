@@ -22,7 +22,7 @@ Developed a Transformer-based sequence modeling pipeline on limit order book dat
 Combined latent representations with One-Class SVM (Nyström approximation); achieved ~0.947 leaderboard score, demonstrating strong temporal modeling capability.  
 
 **Tech:** PyTorch, Scikit-learn, Time Series, Transformer  
-🔗 https://github.com/lqh770205-dev/Anomaly-Detection-in-Limit-Order-Book-Data-Transformer-One-Class-SVM
+🔗 https://github.com/lqh770205-dev/Anomaly-Detection-in-Limit-Order-Book-Data-Transformer-One-Class-SVM-
 
 ---
 
